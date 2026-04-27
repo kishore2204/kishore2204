@@ -36,15 +36,6 @@ I build practical, scalable applications that solve real problems — from mobil
 
 ---
 
-## Tech Stack
-
-**Languages:** Dart, Python, Java  
-**Frameworks:** Flutter, FastAPI  
-**Database:** SQLite, MySQL  
-**Concepts:** REST APIs, System Design, Optimization, ML Basics  
-**Tools:** Git, VS Code, Android Studio  
-
----
 
 
 ## Connect with Me
