@@ -28,39 +28,6 @@ I build practical, scalable applications that solve real problems — from mobil
 
 ---
 
-## Featured Projects
-
-### Portfolio Optimization using Quantum Computing  
-- Hybrid **ML + Quantum optimization** approach for decision-making  
-- Uses classical models + QUBO formulation + quantum algorithms (QAOA)  
-- Focused on efficient resource/asset allocation  
-   https://github.com/kishore2204/Portfolio-Optimization-Quantum  
-
----
-
-### SpendWise — Smart Expense Tracker  
-- Parses Indian bank SMS automatically to track expenses  
-- Built with **Flutter + FastAPI + SQLite**  
-- Includes analytics dashboard & categorized spending  
-   https://github.com/kishore2204/Smart-expense-tracker  
-
----
-
-### Currency Converter  
-- Real-time currency conversion using live APIs  
-- Clean UI with smooth UX and offline handling  
-   https://github.com/kishore2204/Currency-converter  
-
----
-
-### School Management System  
-- Full-stack system for managing school operations  
-- Role-based access, attendance, fees & reports  
-   https://github.com/kishore2204/School-Management-System  
-
----
-
-
 ## What I'm Building Towards
 
 - AI-powered real-world systems (detection, prediction, optimization)  
@@ -79,17 +46,6 @@ I build practical, scalable applications that solve real problems — from mobil
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kishore2204&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kishore2204&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## Connect with Me
 
